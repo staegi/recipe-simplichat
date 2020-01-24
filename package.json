@@ -1,16 +1,13 @@
 {
-  "id": "rocketchat",
-  "name": "Rocket.Chat",
-  "version": "1.0.6",
-  "description": "Rocket.Chat",
+  "id": "simplichat",
+  "name": "SimpliChat",
+  "version": "1.0.0",
+  "description": "SimpliChat",
   "main": "index.js",
-  "author": "Stefan Malzner <stefan@adlk.io>",
+  "author": "Thomas Stägemann <staegi@gmail.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://{teamId}.rocket.chat",
-    "hasNotificationSound": true,
-    "hasCustomUrl": true,
-    "hasTeamId": true,
-    "urlInputSuffix": ".rocket.chat"
+    "serviceURL": "https://chat.simplioffice.com",
+    "hasNotificationSound": true
   }
 }
